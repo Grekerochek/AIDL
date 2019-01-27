@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AIDL</string>
+    <string name="button">Записать!</string>
+    <string name="inlet">Ввод!</string>
+    <string name="danniye">Данные!</string>
+    <string name="button_vivod">Вывести!</string>
+</resources>
